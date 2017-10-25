@@ -4,7 +4,7 @@
 #include <sys/wait.h>
 
 //mode, read, nom fichier
-
+//test
 
 int main(int argc, char *argv[])
 {
